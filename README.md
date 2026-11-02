@@ -15,12 +15,12 @@ This project investigates software PLC security through practical experiments, i
 
 ## Research Areas
 
-| #  | Area                          | Focus                                                                                  | Status     |   
-|----|-------------------------------|----------------------------------------------------------------------------------------|------------|
-| 01 | Software PLC Foundations      | Architecture, deployment models, control logic, and engineering workflows              | ⚪ Planned |
-| 02 | Attack Techniques             | Program and configuration tampering, runtime manipulation, and execution disruption    | ⚪ Planned |
-| 03 | Industrial Protocol Security  | Protocol operations, trust boundaries, process data manipulation, and PLC interactions | ⚪ Planned |
-| 04 | Defensive Engineering         | Defensive implementation, monitoring, recovery, and experimental validation            | ⚪ Planned |
+| #  | Area                                                                                                                         | Focus                                                                                  | Status     |   
+|----|------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|------------|
+| 01 | [Software PLC Foundations](https://github.com/404saint/softplc-security-research/tree/main/01-software-plc-foundations)      | Architecture, deployment models, control logic, and engineering workflows              | ⚪ Planned |
+| 02 | Attack Techniques                                                                                                            | Program and configuration tampering, runtime manipulation, and execution disruption    | ⚪ Planned |
+| 03 | Industrial Protocol Security                                                                                                 | Protocol operations, trust boundaries, process data manipulation, and PLC interactions | ⚪ Planned |
+| 04 | Defensive Engineering                                                                                                        | Defensive implementation, monitoring, recovery, and experimental validation            | ⚪ Planned |
 
 ## Repository Structure
 
