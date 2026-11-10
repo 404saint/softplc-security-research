@@ -18,7 +18,7 @@ This project investigates software PLC security through practical experiments, i
 | #  | Area                                                                                                                         | Focus                                                                                  | Status      |   
 |----|------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|------------ |
 | 01 | [Software PLC Foundations](https://github.com/404saint/softplc-security-research/tree/main/01-software-plc-foundations)      | Architecture, deployment models, control logic, and engineering workflows              | 🟢 Complete |
-| 02 | Attack Techniques                                                                                                            | Program and configuration tampering, runtime manipulation, and execution disruption    | ⚪ Planned  |
+| 02 | [Attack Paths](https://github.com/404saint/softplc-security-research/tree/main/02-softplc-attack-paths)                      | Program and configuration tampering, runtime manipulation, and execution disruption    | 🟡 In Work  |
 | 03 | Industrial Protocol Security                                                                                                 | Protocol operations, trust boundaries, process data manipulation, and PLC interactions | ⚪ Planned  |
 | 04 | Defensive Engineering                                                                                                        | Defensive implementation, monitoring, recovery, and experimental validation            | ⚪ Planned  |
 
@@ -27,7 +27,7 @@ This project investigates software PLC security through practical experiments, i
 ```text
 softplc-security-research/
 ├── 01-software-plc-foundations/
-├── 02-software-plc-attack-techniques/
+├── 02-software-plc-attack-paths/
 ├── 03-industrial-protocol-security/
 └── 04-defensive-engineering/
 ```
